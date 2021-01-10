@@ -1,0 +1,27 @@
+.swipeButtons{
+    display: flex;
+    width: 100%;
+    position: fixed;
+    bottom: 10vh;
+    justify-content: space-evenly;
+}
+.swipeButtons__button{
+    padding: 20px !important;
+    color: #fff;
+    box-shadow: 0px 18px 53px 0px rgba(0,0,0,0.3);
+}
+.swipeButtons__replay{
+    color:rgb(221, 125, 0) !important;
+}
+.swipeButtons__close{
+    color:rgb(195, 17, 1) !important;
+}
+.swipeButtons__star{
+    color:rgb(1, 24, 195) !important;
+}
+.swipeButtons__favorite{
+    color:rgb(30, 195, 1) !important;
+}
+.swipeButtons__flash{
+    color:rgb(134, 1, 195) !important;
+}
